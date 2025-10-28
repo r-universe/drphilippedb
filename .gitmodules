@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "div"]
 	path = div
-	url = https://github.com/cran/div
+	url = https://github.com/drphilippedb/div
